@@ -1,0 +1,23 @@
+First 3 push left
+3 double press left
+3 long press left
+
+First 3 push right
+3 double press right
+3 long press right
+
+after
+
+1 left press
+1 right press
+1 long press left
+1 loong press right
+1 double press left
+1 double press right
+
+Battery 100%
+software version says 0.10
+manufactuer number says 41
+model says 29241
+serial says 3290598177
+gears say 53-39 and 11-23
